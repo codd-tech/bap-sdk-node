@@ -48,7 +48,7 @@ API key must be obtained from [socialjet.pro](https://publisher.socialjet.pro/)
 
 ### Submitting bugs and feature requests
 
-Bugs and feature request are tracked on [GitHub](https://github.com/codd-tech/bap-sdk-php)
+Bugs and feature request are tracked on [GitHub](https://github.com/codd-tech/bap-sdk-node)
 
 ### License
 
